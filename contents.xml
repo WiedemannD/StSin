@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contents>	
+	<productCarousels>
+		<productCarousel lang="de">
+			<start>
+				<header>
+					<headline>Frische Luft für ihren Atem.</headline>
+					<subheadline>Machen Sie Schluss mit schlechtem Atem. Entdecken Sie St. Sin und seine neutralisierende Wirkung bei Knoblauch, Tabak- und Alkoholfahne.</subheadline>
+				</header>
+				<box>
+					<background width="529" height="108">../images/bg_large.png</background>
+					<headline>Immer den richtigen Riecher.</headline>
+					<text>Erfahren sie alles über die drei revolutionären Produkte von St. Sin. Informieren Sie sich über wohltuende News in unserem Pressebereich. Oder werden Sie St. Sin Fan auf Facebook.</text>
+				</box>
+			</start>
+			<product>
+				<header>
+					<headline>Wie wirkt St. Sin N° 1?</headline>
+					<subheadline>St. Sin N° 1 ist das erste und einzige Lebensmittel, das die Alkoholfahne komplett und nachhaltig neutralisiert - und das in nur 30 Sekunden! St. Sin N° 1 wirkt ganz gezielt und ohne Uftstoffe gegen Alkoholatem.</subheadline>
+				</header>
+				<single>../videos/product_de_single_01.f4v</single>
+				<multi>../videos/product_de_multi_01.f4v</multi>
+				<box>
+					<background width="221" height="141">../images/bg_no1_01.jpg</background>
+					<headline>Wie wikrt St. Sin N° 1?</headline>
+					<text>Das Geheimnis von St. Sin N° 1 liegtin der bindung freier Alkoholgruppen in geruchsneutrale Verbindungen. Der Traubenzucker löst sich im Mund auf und verteilt die Wirksubstanz optimal auf die Schleimhäute.</text>
+				</box>
+				<box>
+					<background width="221" height="141">../images/bg_no1_02.jpg</background>
+					<headline>Was ist drinn in St. Sin N° 1?</headline>
+					<text>Die Zutaten: Dextrose (78%), Maltodextrin, pflanzliche Öle, Saccharose, modifizierte Stärke, Grüntee-Extrakt, gehärtetes pflanzliches Öl, Aroma, Trennmittel: Magnesiumstearat</text>
+				</box>
+				<box>
+					<background width="221" height="141">../images/bg_no1_03.jpg</background>
+					<headline>Anwendung</headline>
+					<text>Nach Beenden des Alkoholkonsums das Produkt zerbeißen und mit der Zunge in der Mundhöhle verteilen. Nach ca. 30 Sekunden hat sich das Produkt aufgelöst und der Alkohol-Atem ist neutral.</text>
+				</box>
+			</product>
+			<product>
+				<header>
+					<headline>Wie wirkt St. Sin N° 2?</headline>
+					<subheadline>St. Sin N° 2 ist das erste und einzige Lebensmittel, das die Alkoholfahne komplett und nachhaltig neutralisiert - und das in nur 30 Sekunden! St. Sin N° 2 wirkt ganz gezielt und ohne Uftstoffe gegen Alkoholatem.</subheadline>
+				</header>
+				<single>../videos/product_de_single_01.f4v</single>
+				<multi>../videos/product_de_multi_01.f4v</multi>
+				<box>
+					<background width="221" height="141">../images/bg_no2_01.jpg</background>
+					<headline>Wie wikrt St. Sin N° 2?</headline>
+					<text>Das Geheimnis von St. Sin N° 2 liegtin der bindung freier Alkoholgruppen in geruchsneutrale Verbindungen. Der Traubenzucker löst sich im Mund auf und verteilt die Wirksubstanz optimal auf die Schleimhäute.</text>
+				</box>
+				<box>
+					<background width="221" height="141">../images/bg_no2_02.jpg</background>
+					<headline>Was ist drinn in St. Sin N° 2?</headline>
+					<text>Die Zutaten: Dextrose (78%), Maltodextrin, pflanzliche Öle, Saccharose, modifizierte Stärke, Grüntee-Extrakt, gehärtetes pflanzliches Öl, Aroma, Trennmittel: Magnesiumstearat</text>
+				</box>
+				<box>
+					<background width="221" height="141">../images/bg_no2_03.jpg</background>
+					<headline>Anwendung</headline>
+					<text>Nach Beenden des Alkoholkonsums das Produkt zerbeißen und mit der Zunge in der Mundhöhle verteilen. Nach ca. 30 Sekunden hat sich das Produkt aufgelöst und der Alkohol-Atem ist neutral.</text>
+				</box>
+			</product>
+			<product>
+				<header>
+					<headline>Wie wirkt St. Sin N° 3?</headline>
+					<subheadline>St. Sin N° 3 ist das erste und einzige Lebensmittel, das die Alkoholfahne komplett und nachhaltig neutralisiert - und das in nur 30 Sekunden! St. Sin N° 3 wirkt ganz gezielt und ohne Uftstoffe gegen Alkoholatem.</subheadline>
+				</header>
+				<single>../videos/product_de_single_01.f4v</single>
+				<multi>../videos/product_de_multi_01.f4v</multi>
+				<box>
+					<background width="221" height="141">../images/bg_no3_01.jpg</background>
+					<headline>Wie wikrt St. Sin N° 3?</headline>
+					<text>Das Geheimnis von St. Sin N° 3 liegtin der bindung freier Alkoholgruppen in geruchsneutrale Verbindungen. Der Traubenzucker löst sich im Mund auf und verteilt die Wirksubstanz optimal auf die Schleimhäute.</text>
+				</box>
+				<box>
+					<background width="221" height="141">../images/bg_no3_02.jpg</background>
+					<headline>Was ist drinn in St. Sin N° 3?</headline>
+					<text>Die Zutaten: Dextrose (78%), Maltodextrin, pflanzliche Öle, Saccharose, modifizierte Stärke, Grüntee-Extrakt, gehärtetes pflanzliches Öl, Aroma, Trennmittel: Magnesiumstearat</text>
+				</box>
+				<box>
+					<background width="221" height="141">../images/bg_no3_03.jpg</background>
+					<headline>Anwendung</headline>
+					<text>Nach Beenden des Alkoholkonsums das Produkt zerbeißen und mit der Zunge in der Mundhöhle verteilen. Nach ca. 30 Sekunden hat sich das Produkt aufgelöst und der Alkohol-Atem ist neutral.</text>
+				</box>
+			</product>
+		</productCarousel>
+		<productCarousel lang="en">
+			<start>
+				<header>
+					<headline>Fresh air bla bla.</headline>
+					<subheadline>Machen Sie Schluss mit schlechtem Atem. Entdecken Sie St. Sin und seine neutralisierende Wirkung bei Knoblauch, Tabak- und Alkoholfahne.</subheadline>
+				</header>
+				<box>
+					<background width="529" height="108">../images/bg_large.png</background>
+					<headline>Always den richtigen Riecher.</headline>
+					<text>Three revolutionären Produkte von St. Sin. Informieren Sie sich über wohltuende News in unserem Pressebereich. Oder werden Sie St. Sin Fan auf Facebook.</text>
+				</box>
+			</start>
+			<product>
+				<header>
+					<headline>St. Sin N° 1, how does it work?</headline>
+					<subheadline>St. Sin N° 1 ist das erste und einzige Lebensmittel, das die Alkoholfahne komplett und nachhaltig neutralisiert - und das in nur 30 Sekunden! St. Sin N° 1 wirkt ganz gezielt und ohne Uftstoffe gegen Alkoholatem.</subheadline>
+				</header>
+				<single>../videos/product_de_single_01.f4v</single>
+				<multi>../videos/product_de_multi_01.f4v</multi>
+				<box>
+					<background width="221" height="141">../images/bg_no1_01.jpg</background>
+					<headline>Wie wikrt St. Sin N° 1?</headline>
+					<text>Das Geheimnis von St. Sin N° 1 liegtin der bindung freier Alkoholgruppen in geruchsneutrale Verbindungen. Der Traubenzucker löst sich im Mund auf und verteilt die Wirksubstanz optimal auf die Schleimhäute.</text>
+					
+				</box>
+				<box>
+					<background width="221" height="141">../images/bg_no1_02.jpg</background>
+					<headline>Was ist drinn in St. Sin N° 1?</headline>
+					<text>Die Zutaten: Dextrose (78%), Maltodextrin, pflanzliche Öle, Saccharose, modifizierte Stärke, Grüntee-Extrakt, gehärtetes pflanzliches Öl, Aroma, Trennmittel: Magnesiumstearat</text>
+				</box>
+				<box>
+					<background width="221" height="141">../images/bg_no1_03.jpg</background>
+					<headline>Anwendung</headline>
+					<text>Nach Beenden des Alkoholkonsums das Produkt zerbeißen und mit der Zunge in der Mundhöhle verteilen. Nach ca. 30 Sekunden hat sich das Produkt aufgelöst und der Alkohol-Atem ist neutral.</text>
+				</box>
+			</product>
+			<product>
+				<header>
+					<headline>St. Sin N° 2, how does it work?</headline>
+					<subheadline>St. Sin N° 2 ist das erste und einzige Lebensmittel, das die Alkoholfahne komplett und nachhaltig neutralisiert - und das in nur 30 Sekunden! St. Sin N° 2 wirkt ganz gezielt und ohne Uftstoffe gegen Alkoholatem.</subheadline>
+				</header>
+				<single>../videos/product_de_single_01.f4v</single>
+				<multi>../videos/product_de_multi_01.f4v</multi>
+				<box>
+					<background width="221" height="141">../images/bg_no2_01.jpg</background>
+					<headline>Wie wikrt St. Sin N° 2?</headline>
+					<text>Das Geheimnis von St. Sin N° 2 liegtin der bindung freier Alkoholgruppen in geruchsneutrale Verbindungen. Der Traubenzucker löst sich im Mund auf und verteilt die Wirksubstanz optimal auf die Schleimhäute.</text>
+				</box>
+				<box>
+					<background width="221" height="141">../images/bg_no2_02.jpg</background>
+					<headline>Was ist drinn in St. Sin N° 2?</headline>
+					<text>Die Zutaten: Dextrose (78%), Maltodextrin, pflanzliche Öle, Saccharose, modifizierte Stärke, Grüntee-Extrakt, gehärtetes pflanzliches Öl, Aroma, Trennmittel: Magnesiumstearat</text>
+				</box>
+				<box>
+					<background width="221" height="141">../images/bg_no2_03.jpg</background>
+					<headline>Anwendung</headline>
+					<text>Nach Beenden des Alkoholkonsums das Produkt zerbeißen und mit der Zunge in der Mundhöhle verteilen. Nach ca. 30 Sekunden hat sich das Produkt aufgelöst und der Alkohol-Atem ist neutral.</text>
+				</box>
+			</product>
+			<product>
+				<header>
+					<headline>St. Sin N° 3, how does it work?</headline>
+					<subheadline>St. Sin N° 3 ist das erste und einzige Lebensmittel, das die Alkoholfahne komplett und nachhaltig neutralisiert - und das in nur 30 Sekunden! St. Sin N° 3 wirkt ganz gezielt und ohne Uftstoffe gegen Alkoholatem.</subheadline>
+				</header>
+				<single>../videos/product_de_single_01.f4v</single>
+				<multi>../videos/product_de_multi_01.f4v</multi>
+				<box>
+					<background width="221" height="141">../images/bg_no3_01.jpg</background>
+					<headline>Wie wikrt St. Sin N° 3?</headline>
+					<text>Das Geheimnis von St. Sin N° 3 liegtin der bindung freier Alkoholgruppen in geruchsneutrale Verbindungen. Der Traubenzucker löst sich im Mund auf und verteilt die Wirksubstanz optimal auf die Schleimhäute.</text>
+				</box>
+				<box>
+					<background width="221" height="141">../images/bg_no3_02.jpg</background>
+					<headline>Was ist drinn in St. Sin N° 3?</headline>
+					<text>Die Zutaten: Dextrose (78%), Maltodextrin, pflanzliche Öle, Saccharose, modifizierte Stärke, Grüntee-Extrakt, gehärtetes pflanzliches Öl, Aroma, Trennmittel: Magnesiumstearat</text>
+				</box>
+				<box>
+					<background width="221" height="141">../images/bg_no3_03.jpg</background>
+					<headline>Anwendung</headline>
+					<text>Nach Beenden des Alkoholkonsums das Produkt zerbeißen und mit der Zunge in der Mundhöhle verteilen. Nach ca. 30 Sekunden hat sich das Produkt aufgelöst und der Alkohol-Atem ist neutral.</text>
+				</box>
+			</product>
+		</productCarousel>
+	</productCarousels>
+	
+	<disclaimers>
+		<disclaimer lang="de">Die Wirkungsweise aller St. Sin Produkte ist wissenschaftlich bewiesen. Getestet: Institut für Lorem Ipsum</disclaimer>
+		<disclaimer lang="en">EnglischDie Wirkungsweise aller St. Sin Produkte ist wissenschaftlich bewiesen. Getestet: Institut für Lorem Ipsum</disclaimer>
+		<disclaimer lang="fr">FranzösischDie Wirkungsweise aller St. Sin Produkte ist wissenschaftlich bewiesen. Getestet: Institut für Lorem Ipsum</disclaimer>
+	</disclaimers>
+	
+	<tabelofcontents>
+		<items lang="de">
+			<item layer="press" width="38" label="Presse">
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+				<item url="http://www.bild.de" thumb="../images/thumbs/bild.jpg" width="50" height="100"><![CDATA[Reinhard Crasemann, Heye & Partner und Ludger Meyer]]></item>
+			</item>
+			<item url="mailto:test@test.de" width="45" label="Kontakt"/>
+			<item url="http://www.test.de" width="77" label="Händler Suche"/>
+			<item layer="imprint" width="52" label="Impressum">
+				<item width="320"><![CDATA[Impressums blablakjdshfsdjhfdsjkhf \n sdkfjjdf djfkdjf dfjkdfjd ]]></item>
+				<item width="320"><![CDATA[Tatatrararaaa blablakjdshfsdjhfdsjkhf \nsdkfjjdf \ndjfkdjf dfjkdfjd ]]></item>
+			</item>
+		</items>
+		<items lang="en">
+			<item layer="press" width="36" label="Press"></item>
+			<item url="mailto:test@test.de" width="42" label="Contact"/>
+			<item url="http://www.test.de" width="74" label="Reseller search"/>
+			<item layer="imprint" width="52" label="Imprint"></item>
+		</items>
+	</tabelofcontents>
+</contents>

@@ -1,0 +1,37 @@
+8
+
+dir
+13
+http://leebrimelow.googlecode.com/svn/trunk/as3/com/leebrimelow
+http://leebrimelow.googlecode.com/svn
+
+
+
+2008-09-03T08:03:01.018217Z
+11
+leebrimelow
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+05cbe299-d955-0410-bf89-035961d304f4
+
+utils
+dir
+
+drawing
+dir
+
+ui
+dir
+
